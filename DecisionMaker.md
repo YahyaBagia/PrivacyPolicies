@@ -6,6 +6,7 @@ Decision maker is an app that helps you make decisions by providing you with an 
 I (Yahya Bagia) operates the Decision Maker - A Life Saver mobile application (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
+
 We do not collect or use your data to provide and improve the Service or in any other terms. All the data you feed into this application is locally stored on your device and does not synchronise with any server.
 
 ### Definitions
