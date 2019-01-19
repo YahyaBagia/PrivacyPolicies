@@ -10,14 +10,11 @@ This page informs you of our policies regarding the collection, use, and disclos
 We do not collect or use your data to provide and improve the Service or in any other terms. All the data you feed into this application is locally stored on your device and does not synchronise with any server.
 
 #### Definitions
-- Service
-    Service is the Decision Maker - A Life Saver mobile application operated by Yahya Bagia
+- Service : Service is the Decision Maker - A Life Saver mobile application operated by Yahya Bagia
 
-- Personal Data
-    Personal Data means data about a living individual who can be identified from those data. No personal data is automatically collected or shared by this app (Unless a user wishes to manually share the details of their data with their choice of audience).
+- Personal Data : Personal Data means data about a living individual who can be identified from those data. No personal data is automatically collected or shared by this app (Unless a user wishes to manually share the details of their data with their choice of audience).
 
-- Usage Data
-    No Usage Data is collected automatically (through analytics) or manually (by feedback).
+- Usage Data : No Usage Data is collected automatically (through analytics) or manually (by feedback).
 
 #### Security of Data
 The security of your data is important to us and therefore we have saved all of your data on the device locally, i.e. no piece of information travels through the internet to be stored somewhere else on the earth.
