@@ -1,16 +1,16 @@
-# Rekkorder
+# Reckorder
 
-Rekkorder is an app that helps you record audio using microphone on iPhone.
+Reckorder is an app that helps you record audio using microphone on iPhone.
 
 ### Privacy Policy
-I (Yahya Bagia) operates the Rekkorder mobile application (hereinafter referred to as the "Service").
+I (Yahya Bagia) operates the Reckorder mobile application (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
 We do not collect or use your data to provide and improve the Service or in any other terms. All the data you feed into this application is locally stored on your device and does not synchronise with any server.
 
 #### Definitions
-- Service : Service is the Rekkorder mobile application operated by Yahya Bagia
+- Service : Service is the Reckorder mobile application operated by Yahya Bagia
 
 - Personal Data : Personal Data means data about a living individual who can be identified from those data. No personal data is automatically collected or shared by this app (Unless a user wishes to manually share the details of their data with their choice of audience).
 
