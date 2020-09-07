@@ -1,16 +1,16 @@
-# Decision Maker - A Life Saver
+# DilemmaHelper - A Life Saver
 
-Decision maker is an app that helps you make decisions by providing you with an overview of all pros and cons of it's arguments.
+DilemmaHelper is an app that helps you make decisions by providing you with an overview of all pros and cons of it's arguments.
 
 ### Privacy Policy
-I (Yahya Bagia) operates the Decision Maker - A Life Saver mobile application (hereinafter referred to as the "Service").
+I (Yahya Bagia) operates the DilemmaHelper mobile application (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
 We do not collect or use your data to provide and improve the Service or in any other terms. All the data you feed into this application is locally stored on your device and does not synchronise with any server.
 
 #### Definitions
-- Service : Service is the Decision Maker - A Life Saver mobile application operated by Yahya Bagia
+- Service : Service is the DilemmaHelper mobile application operated by Yahya Bagia
 
 - Personal Data : Personal Data means data about a living individual who can be identified from those data. No personal data is automatically collected or shared by this app (Unless a user wishes to manually share the details of their data with their choice of audience).
 
